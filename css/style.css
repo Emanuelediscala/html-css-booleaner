@@ -7,7 +7,6 @@ header {
     background-image: url(..//img/pattern.png);}
 #logo {
     width:25%;
-    margin-left: 5%;
     display: flex;   
 }
 .grey {
@@ -38,3 +37,19 @@ th,td {
 .light{
     background-color: lightskyblue;
 }
+.fotodicoda{
+width:312px;
+height:208px;
+background-size: cover;
+margin: 5px;
+color: white;
+font-size: 22px;
+font-weight: 600;}
+.uno{
+    background-image: url(..//img/monitor.jpg);
+    }
+.due{
+    background-image: url(../img/graph.jpg);    
+}
+.lorem {
+    padding: 5%;}
