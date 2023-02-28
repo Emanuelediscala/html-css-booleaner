@@ -9,6 +9,7 @@ header {
     width:25%;
     display: flex;   
 }
+main,footer {margin: auto;}
 .grey {
     color: grey;margin: 1px;
 }
@@ -24,7 +25,11 @@ header {
     margin-bottom: 10px;
 }
 .data {
-    font-size: 10px;}
+    font-size: 10px;
+}
+ul  {
+    padding-left: 15px;
+}    
 thead {
     background-color: blue;
     color: white;
@@ -36,7 +41,9 @@ table {
 .riga{
     width: 25%;
 }
-th {text-align: left;}
+th {
+    text-align: left;
+}
 .light{
     background-color: lightskyblue;
 }

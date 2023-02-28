@@ -4,11 +4,11 @@ header {
     display: flex;
     align-items: flex-end;
     height:200px;
-    background-image: url(..//img/pattern.png);}
-main {margin: auto;}    
+    background-image: url(..//img/pattern.png);
+} 
 #logo {
     width:25%;
-    display: flex;   
+    display: flex;
 }
 .grey {
     color: grey;margin: 1px;
@@ -19,13 +19,16 @@ main {margin: auto;}
 .titolo {
     font-size: 35px;
     font-weight: bolder;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 .autore-data{
     margin-bottom: 10px;
 }
 .data {
     font-size: 10px;}
+ul  {
+    padding-left: 15px;
+}
 thead {
     background-color: blue;
     color: white;
